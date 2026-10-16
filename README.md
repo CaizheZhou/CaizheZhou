@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 <span style="color:#ff6b6b">H</span><span style="color:#feca57">i</span> <span style="color:#48dbfb">t</span><span style="color:#ff9ff3">h</span><span style="color:#1dd1a1">e</span><span style="color:#ff6b6b">r</span><span style="color:#feca57">e</span><span style="color:#48dbfb">,</span> <span style="color:#ff9ff3">I</span><span style="color:#1dd1a1">'</span><span style="color:#ff6b6b">m</span> <span style="color:#feca57">C</span><span style="color:#48dbfb">a</span><span style="color:#ff9ff3">i</span><span style="color:#1dd1a1">z</span><span style="color:#ff6b6b">e</span><span style="color:#feca57">Z</span><span style="color:#48dbfb">h</span><span style="color:#ff9ff3">o</span><span style="color:#1dd1a1">u</span></h1>
+<h1 align="center">👋 <svg viewBox="0 0 640 52" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hi there, I'm CaizheZhou"><text x="0" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600"><tspan fill="#ff6b6b">H</tspan><tspan fill="#feca57">i</tspan><tspan fill="#48dbfb"> </tspan><tspan fill="#ff9ff3">t</tspan><tspan fill="#1dd1a1">h</tspan><tspan fill="#ff6b6b">e</tspan><tspan fill="#feca57">r</tspan><tspan fill="#48dbfb">e</tspan><tspan fill="#ff9ff3">,</tspan><tspan fill="#1dd1a1"> </tspan><tspan fill="#ff6b6b">I</tspan><tspan fill="#feca57">'</tspan><tspan fill="#48dbfb">m</tspan><tspan fill="#ff9ff3"> </tspan><tspan fill="#1dd1a1">C</tspan><tspan fill="#ff6b6b">a</tspan><tspan fill="#feca57">i</tspan><tspan fill="#48dbfb">z</tspan><tspan fill="#ff9ff3">e</tspan><tspan fill="#1dd1a1">Z</tspan><tspan fill="#ff6b6b">h</tspan><tspan fill="#feca57">o</tspan><tspan fill="#48dbfb">u</tspan></text></svg></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=600&color=38C6F7&center=true&vCenter=true&width=820&lines=%E6%88%91%E6%98%AF%E4%B8%80%E4%BD%8D14%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8C%E6%9D%A5%E8%87%AA%E5%B1%B1%E4%B8%9C%C2%B7%E6%B5%8E%E5%8D%97;Full-Stack+Developer+%7C+Student+%7C+Open+Source+Lover;C%23+.NET8+%2F+Python+%2F+Vue+%2F+Node.js+%2F+Rust+%2F+Go;Building+things+that+make+classrooms+smarter;Welcome+to+my+GitHub+Profile!%F0%9F%9A%80)]
 
@@ -39,7 +39,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ArkTS](https://img.shields.io/badge/ArkTS%2FHarmonyOS-000000?style=for-the-badge&logo=huawei&logoColor=white)
 
-### 框槬与平叀
+### 框架与平台
+
 ![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Avalonia](https://img.shields.io/badge/Avalonia-8B5BE6?style=for-the-badge&logo=avalonia&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -101,9 +102,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaizheZhou&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-lang3/?username=CaizheZhou&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaizheZhou&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=CaizheZhou&theme=tokyonight)
 
 </div>
 
