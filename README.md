@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm CaizheZhou (周才哲)
+# 👋 Hi there, I'm CaizheZhou
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=600&color=38C6F7&center=true&vCenter=true&width=820&lines=14%E5%B2%81%E5%B0%91%E5%B9%B4%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8C%E6%9D%A5%E8%87%AA%E5%B1%B1%E4%B8%9C%E6%B5%8E%E5%8D%97;Full-Stack+Developer+%7C+Student+%7C+Open+Source+Lover;C%23+.NET8+%2F+Python+%2F+Vue+%2F+Node.js+%2F+Rust+%2F+Go;Building+things+that+make+classrooms+smarter;Welcome+to+my+GitHub+Profile!%F0%9F%9A%80)]
 
@@ -17,7 +17,7 @@
 
 - 🏫 **济南市莱芜高新区实验学校** 2023 级初四学生
 - 💻 **独立软件开发者**，热衷用代码解决真实问题
-- 🚀 主力项目 [**ClassPixelPro**](https://github.com/CaizheZhou/ClassPixelPro)：班级集控系统（C#/.NET8 + Avalonia + Vue，11.3 万行代码，已部署班级使用并开源）
+- 🚀 主力项目 **ClassPixelPro**：班级集控系统（C#/.NET8 + Avalonia + Vue，11.3 万行代码，已部署班级使用）
 - 🤖 重度使用 20+ AI 编程工具，坚持 AI 辅助下的全栈开发
 - 🧪 中国电子学会青少年软件编程等级考试 Python Level-1 / Level-2 持证
 - 💙 山东省青春联盟志愿者总队志愿者
@@ -55,15 +55,42 @@
 
 ## 📂 主要项目 Featured Projects
 
-| 项目 | 简介 | 技术栈 |
-|------|------|--------|
-| [**ClassPixelPro**](https://github.com/CaizheZhou/ClassPixelPro) | 班级集控系统，11.3 万行代码，已部署班级使用 | C# · .NET8 · Avalonia · Vue |
-| [**Class21**](https://github.com/CaizheZhou/Class21) | 班级记忆网站 | Nuxt4 · Vue |
-| [**Daobo**](https://github.com/CaizheZhou/Daobo) | 导播系统 | .NET8 |
-| [**StudentBehaviorDetect**](https://github.com/CaizheZhou/StudentBehaviorDetect) | 学生行为检测 | Python · YOLOv8 |
-| [**ExamSystem**](https://github.com/CaizheZhou/ExamSystem) | 信息技术考试系统 | Python · PySide2 |
+### ⭐ 主力作品
 
-> ⚠️ 项目链接基于你的 GitHub 用户名推断，请按实际仓库名修改。
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>🖥️ ClassPixelPro</b> 🔒<br>
+      <sub>班级集控系统 · C# / .NET8 / Avalonia / Vue<br>11.3 万行代码 · 已部署班级使用</sub>
+    </td>
+    <td width="50%" align="center">
+      <b>🎓 SmartSchoolSystem-New</b> 🔒<br>
+      <sub>智慧校园 · 社团管理系统（大赛作品）</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <b>📊 <a href="https://github.com/CaizheZhou/server-dashboard">server-dashboard</a></b> ⭐<br>
+      <sub>单服务器管理面板 · TypeScript</sub>
+    </td>
+    <td width="50%" align="center">
+      <b>📦 <a href="https://github.com/CaizheZhou/ClassPixelPro-Releases">ClassPixelPro-Releases</a></b><br>
+      <sub>ClassPixelPro 构建发布仓库</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+### 🌐 更多公开作品
+
+[![server-dashboard](https://img.shields.io/badge/server--dashboard-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/CaizheZhou/server-dashboard)
+[![ClassPixelPro-Releases](https://img.shields.io/badge/ClassPixelPro--Releases-.NET8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/CaizheZhou/ClassPixelPro-Releases)
+[![CaizheZhou.github.io](https://img.shields.io/badge/CaizheZhou.github.io-Pages-2CA5E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaizheZhou/CaizheZhou.github.io)
+
+> 🔒 表示私有仓库（源码不公开）；⭐ 表示已获得 Star
 
 ---
 
