@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<h1 align="center"><img src="rainbow-title.svg" alt="👋 Hi there, I'm CaizheZhou" width="640"></h1>
+# 👋 Hi there, I'm CaizheZhou
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=600&color=38C6F7&center=true&vCenter=true&width=820&lines=%E6%88%91%E6%98%AF%E4%B8%80%E4%BD%8D14%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8C%E6%9D%A5%E8%87%AA%E5%B1%B1%E4%B8%9C%C2%B7%E6%B5%8E%E5%8D%97;Full-Stack+Developer+%7C+Student+%7C+Open+Source+Lover;C%23+.NET8+%2F+Python+%2F+Vue+%2F+Node.js+%2F+Rust+%2F+Go;Building+things+that+make+classrooms+smarter;Welcome+to+my+GitHub+Profile!%F0%9F%9A%80)]
 
