@@ -8,7 +8,7 @@
 <a href="mailto:zcz@imzcz.cn"><img src="https://img.shields.io/badge/Email-zcz%40imzcz.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://imzcz.cn"><img src="https://img.shields.io/badge/Website-imzcz.cn-38C6F7?style=for-the-badge&logo=globe&logoColor=white" alt="Website"></a>
 <a href="https://github.com/CaizheZhou"><img src="https://img.shields.io/badge/GitHub-CaizheZhou-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<img src="https://komarev.com/ghpvc/?username=CaizheZhou&style=flat-square&color=38C6F7" alt="Profile Views"/>
+<img src="https://counter.othmaro.dev/api/views?id=CaizheZhou&style=flat-square&rightColor=38C6F7" alt="Profile Views"/>
 
 </div>
 
