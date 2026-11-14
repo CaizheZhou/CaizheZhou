@@ -18,7 +18,6 @@
 - 👋 我是一位 14 岁初中生全栈开发者，来自山东·济南
 - 🏫 就读于 **济南市莱芜高新区实验学校**（2023 级初四）
 - 💻 独立软件开发者，热衷用代码解决真实问题
-- 🚀 主力项目 **ClassPixelPro**：班级集控系统（C#/.NET8 + Avalonia + Vue，11.3 万行代码，已部署班级使用）
 - 🤖 重度使用 20+ AI 编程工具，坚持 AI 辅助下的全栈开发
 - 🧪 中国电子学会青少年软件编程等级考试 Python Level-1 / Level-2 持证
 - 💙 山东省青春联盟志愿者总队志愿者
@@ -61,17 +60,13 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <b>🖥️ <a href="https://class.imzcz.cn/">ClassPixelPro</a></b> 🔒<br>
-      <sub>班级集控系统 · C# / .NET8 / Avalonia / Vue<br>11.3 万行代码 · 已部署班级使用<br><a href="https://class.imzcz.cn/">class.imzcz.cn</a></sub>
-    </td>
-    <td width="50%" align="center">
       <b>💭 <a href="https://class21.imzcz.cn">Class21·Memory</a></b> 🔒<br>
       <sub>班级记忆站点 · Nuxt4 / Vue<br><a href="https://class21.imzcz.cn">class21.imzcz.cn</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <b>📊 <a href="https://github.com/CaizheZhou/server-dashboard">server-dashboard</a></b> ⭐<br>
+      <b>📊 <a href="https://github.com/CaizheZhou/server-dashboard">server-dashboard</a></b> 🔒<br>
       <sub>单服务器管理面板 · TypeScript</sub>
     </td>
     <td width="50%" align="center">
